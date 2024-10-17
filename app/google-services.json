@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553616119408",
+    "project_id": "safewell-cc614",
+    "storage_bucket": "safewell-cc614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553616119408:android:26b174508a830e228346b5",
+        "android_client_info": {
+          "package_name": "com.example.safewell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8UEZ4_1bvHB-0S4Q2WgYgtAyKO50CFMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
